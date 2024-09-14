@@ -1,0 +1,4 @@
+Cloud Computing.
+clouding computing as the name tells, we can do all our computing on the remote servers with minimal cost
+clouding computing is widlt used in IT industries as it incurres lower cost to run a company for processing and storing huge amount of data.
+Its also helps in lowering power consumptions.
